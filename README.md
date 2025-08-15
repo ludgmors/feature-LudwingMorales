@@ -6,6 +6,30 @@ Este proyecto es una aplicación Full Stack que permite gestionar alumnos median
 
 ## 📂 Estructura del proyecto
 
+
+📦 mi-proyecto
+┣ 📂 back-end # API en .NET
+┃ ┣ 📂 Controllers # Controladores (AlumnosController, etc.)
+┃ ┣ 📂 Models # Modelos de datos
+┃ ┣ 📜 Program.cs # Configuración principal de la API
+┃ ┣ 📜 appsettings.json # Configuración de DB y API Key
+┃ ┗ 📜 ... # Otros archivos .NET
+┃
+┣ 📂 front-end # Aplicación React
+┃ ┗ 📂 alumnos-app # Proyecto React creado con Create React App
+┃ ┣ 📂 public # Archivos públicos (index.html, favicon, etc.)
+┃ ┣ 📂 src # Código fuente React
+┃ ┃ ┣ 📜 App.js # Lógica principal
+┃ ┃ ┣ 📜 App.css # Estilos principales
+┃ ┃ ┣ 📜 index.js # Punto de entrada
+┃ ┃ ┗ 📜 ... # Otros componentes
+┃ ┣ 📜 package.json # Dependencias React
+┃ ┗ 📜 ... # Otros archivos generados
+┃
+┣ 📜 README.md # Documentación del proyecto
+┗ 📜 ... # Otros archivos generales
+
+
 ## 🛠 Tecnologías utilizadas
 
 ### Back-End
