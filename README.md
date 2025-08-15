@@ -55,7 +55,8 @@ mi-proyecto/
 git clone https://github.com/ludgmors/feature-LudwingMorales.git
 cd feature-LudwingMorales
 
-
+📦 Instalación de dependencias
+ve al Archivo INSTALL.md, he instala las dependencias 
 
 2️⃣ Configurar el Back-End
 
