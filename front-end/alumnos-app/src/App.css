@@ -1,0 +1,29 @@
+.app-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  padding-bottom: 50px;
+}
+
+.bg-glass {
+  background: rgba(255, 255, 255, 0.85) !important;
+  border-radius: 10px;
+}
+
+.table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.table-dark {
+  background-color: #1b1b1b !important;
+}
+
+.btn {
+  border-radius: 20px;
+}
+
+.spinner-border {
+  width: 3rem;
+  height: 3rem;
+}
+
