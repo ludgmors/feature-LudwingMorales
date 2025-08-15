@@ -4,7 +4,31 @@ Este proyecto es una aplicación Full Stack que permite gestionar alumnos median
 
 ---
 
-## 📂 Estructura del proyecto
+## 📂 Estructura del Proyecto
+```
+mi-proyecto/
+│
+├── back-end/                 # API en .NET
+│   ├── Controllers/           # Controladores (AlumnosController, etc.)
+│   ├── Models/                # Modelos de datos
+│   ├── Program.cs             # Configuración principal de la API
+│   ├── appsettings.json       # Configuración de DB y API Key
+│   └── ...                    # Otros archivos .NET
+│
+├── front-end/                 # Aplicación React
+│   └── alumnos-app/           # Proyecto React creado con Create React App
+│       ├── public/            # Archivos públicos (index.html, favicon, etc.)
+│       ├── src/               # Código fuente React
+│       │   ├── App.js         # Lógica principal
+│       │   ├── App.css        # Estilos principales
+│       │   ├── index.js       # Punto de entrada
+│       │   └── ...            # Otros componentes
+│       ├── package.json       # Dependencias React
+│       └── ...                # Otros archivos generados
+│
+├── README.md                  # Documentación del proyecto
+└── ...                        # Otros archivos generales
+```
 
 ## 🛠 Tecnologías utilizadas
 
@@ -31,7 +55,8 @@ Este proyecto es una aplicación Full Stack que permite gestionar alumnos median
 git clone https://github.com/ludgmors/feature-LudwingMorales.git
 cd feature-LudwingMorales
 
-
+📦 Instalación de dependencias
+ve al Archivo INSTALL.md, he instala las dependencias 
 
 2️⃣ Configurar el Back-End
 
@@ -110,9 +135,4 @@ El Front-End estará en: http://localhost:3000
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-
-
-
-📧 Autor: Ludwing Morales 
+![alt text](image-5.png)orales 
