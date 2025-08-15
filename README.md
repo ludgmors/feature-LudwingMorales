@@ -7,6 +7,7 @@ Este proyecto es una aplicación Full Stack que permite gestionar alumnos median
 ## 📂 Estructura del proyecto
 
 
+
 📦 mi-proyecto
 ┣ 📂 back-end # API en .NET
 ┃ ┣ 📂 Controllers # Controladores (AlumnosController, etc.)
@@ -28,6 +29,8 @@ Este proyecto es una aplicación Full Stack que permite gestionar alumnos median
 ┃
 ┣ 📜 README.md # Documentación del proyecto
 ┗ 📜 ... # Otros archivos generales
+
+
 
 
 ## 🛠 Tecnologías utilizadas
